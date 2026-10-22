@@ -37,5 +37,5 @@
 
 <p align="center">
   <!-- Substitua SEU_USUARIO_AQUI pelo seu nome de usuário real do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertAntunes&show_icons=true&theme=dark&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" alt="Estatísticas do GitHub" />
 </p>
