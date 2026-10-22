@@ -1,19 +1,19 @@
-<h1 align="center">Olá! Eu sou o Albert 🤖</h1>
+<h1 align="center">Olá! Eu sou o Albert </h1>
 <h3 align="center">Técnico em Desenvolvimento de Sistemas & Graduando em Inteligência Artificial</h3>
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
-- 🎓 Estudante de **Inteligência Artificial** na Universidade Federal do Ceará (UFC), Campus Quixadá.
-- 💻 Técnico formado em **Desenvolvimento de Sistemas**.
-- 🔍 Meu foco principal de pesquisa atual é no desenvolvimento de ferramentas locais (*on-device*) para a detecção em tempo real de mídias sintéticas geradas por IA.
-- 🚀 Tenho experiência no desenvolvimento de aplicações web (como a plataforma *Casa Certa*) e exploração de arquiteturas SaaS.
-- 🤸‍♂️ Longe do VS Code, você me encontra em uma roda de capoeira ou envolvido na organização e design de eventos culturais nordestinos.
+-  Estudante de **Inteligência Artificial** na Universidade Federal do Ceará (UFC), Campus Quixadá.
+-  Técnico formado em **Desenvolvimento de Sistemas**.
+-  Meu foco principal de pesquisa atual é no desenvolvimento de ferramentas locais (*on-device*) para a detecção em tempo real de mídias sintéticas geradas por IA.
+-  Tenho experiência no desenvolvimento de aplicações web (como a plataforma *Casa Certa*) e exploração de arquiteturas SaaS.
+-  Longe do VS Code, você me encontra em uma roda de capoeira ou envolvido na organização e design de eventos culturais nordestinos.
 
 ---
 
-### 🛠️ Minha Stack
+###  Minha Stack
 
 **Linguagens:**
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="center">
   <!-- Substitua SEU_USUARIO_AQUI pelo seu nome de usuário real do GitHub -->
